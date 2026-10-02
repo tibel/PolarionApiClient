@@ -1,5 +1,3 @@
-using HtmlAgilityPack;
-
 namespace Polarion;
 
 public partial class PolarionClient : IPolarionClient

@@ -27,7 +27,7 @@
 
   <ItemGroup>    
     <TrimmerRootAssembly Include="ReverseMarkdown" />
-    <TrimmerRootAssembly Include="HtmlAgilityPack" />
+    <TrimmerRootAssembly Include="AngleSharp" />
     <TrimmerRootAssembly Include="Polarion" />
   </ItemGroup>
 

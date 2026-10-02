@@ -37,7 +37,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-   <PackageReference Include="FluentResults" Version="3.13.0" />
+    <PackageReference Include="FluentResults" Version="4.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.2" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.2" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.2" />
@@ -45,7 +45,7 @@
     <PackageReference Include="System.ServiceModel.Http" Version="8.1.2" />
     <PackageReference Include="System.ServiceModel.Primitives" Version="8.1.2" />
     <PackageReference Include="System.ServiceModel.Security" Version="6.0.0" />
-    <PackageReference Include="ReverseMarkdown" Version="4.6.0" />
+    <PackageReference Include="ReverseMarkdown" Version="6.2.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -56,7 +56,7 @@
 
   <ItemGroup>
     <TrimmerRootAssembly Include="ReverseMarkdown" />
-    <TrimmerRootAssembly Include="HtmlAgilityPack" />
+    <TrimmerRootAssembly Include="AngleSharp" />
     <TrimmerRootAssembly Include="Polarion" />
   </ItemGroup>
 
